@@ -22,7 +22,6 @@ config.h
 config.h.in
 config.log
 config.status
-configure
 conftest
 conftest.c
 libtool
